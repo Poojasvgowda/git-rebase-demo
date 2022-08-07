@@ -1,5 +1,6 @@
 import pandas
  a=24
  b=45
- c=a+b
-print "sum of two number =" c
+ c=56
+ d=a+b+c
+print "sum of three number ="d
